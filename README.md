@@ -4,14 +4,14 @@ Source file: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%
 
 Copy the "R_analysis.R" script into working directory. Make sure the following files are also in working directory:
 
-features.txt
-activity_labels.txt
-X_train.txt
-subject_train.txt
-y_train.txt
-X_test.txt
-subject_test.txt
-y_test.txt
+> features.txt
+> activity_labels.txt
+> X_train.txt
+> subject_train.txt
+> y_train.txt
+> X_test.txt
+> subject_test.txt
+> y_test.txt
 
 Next, run the "R_analysis.R" script.
 
